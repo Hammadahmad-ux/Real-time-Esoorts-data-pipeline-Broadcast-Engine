@@ -100,10 +100,13 @@ A backend server responsible for:
 SSP Statify was built to streamline esports tournament operations and improve live broadcast production by delivering fast, reliable, and automated real-time match data systems for professional PUBG events.
 
 ---
+https://www.youtube.com/@sspesports/streams
+youtube link of the streams using this pipeline
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bd13d01-8675-45d8-9854-4dacd7d8bc0c" />
+
 
 📸 Preview
-
-Screenshots and system previews are available inside the repository.
 
 ## 1️⃣ Collector Authentication Interface
 
